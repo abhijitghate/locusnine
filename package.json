@@ -1,0 +1,22 @@
+{
+  "name": "locusnine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhijitghate/locusnine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhijitghate/locusnine/issues"
+  },
+  "homepage": "https://github.com/abhijitghate/locusnine#readme",
+  "dependencies": {
+    "create-react-app": "^3.3.1"
+  }
+}

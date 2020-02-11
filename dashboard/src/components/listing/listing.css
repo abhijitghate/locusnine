@@ -1,0 +1,9 @@
+.set-background {
+	background-color: #414544;
+	margin: 0;
+    position: absolute;
+    width: 100%;
+}
+p {
+	margin-top: 0em;
+}

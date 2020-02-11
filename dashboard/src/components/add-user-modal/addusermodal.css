@@ -1,0 +1,79 @@
+.ant-modal-content {
+	height: 320px;
+	width: 300px;
+	left: 20%;
+}
+
+.ant-modal-title {
+	margin: 12px;
+	font-size: 25px;
+	font-weight: 500;
+}
+span.ant-radio + * {
+	font-size: 10px;
+}
+
+.ant-modal-header {
+	border-bottom: 0 none;
+	padding-bottom: 0;
+}
+
+.ant-modal-footer {
+	border-top: 0 none;
+}
+
+.input-fields {
+	padding: 10px 10px;
+}
+
+.input-fields > input {
+	background: none;
+	font-size: 10px;
+	height: 29px;
+	width: 96%;
+	padding-left: 10px;
+	background-position: 94% 50%;
+	background-size: 14px 14px;
+	border: 1px solid #ededed;
+}
+
+.ant-modal-body {
+	padding-top: 0px;
+}
+
+/* .ant-radio-group > .ant-radio-inner {
+	border-color: #fcad2d;
+}
+.ant-radio-group > .ant-radio-inner::after {
+	background-color: #fcad2d;
+	border: 1px solid #fcad2d;
+	border-color: #fcad2d;
+}
+.ant-radio-group > .ant-radio-checked {
+	border-color: #fcad2d;
+}
+.ant-radio-group > .ant-radio-checked input:checked ~ .ant-radio-inner {
+	border-color: #fcad2d;
+}
+
+.ant-radio-group > .ant-radio-wrapper:hover input ~ .ant-radio-inner {
+	border-color: #fcad2d;
+}
+
+.ant-radio-group > .ant-radio-checked::after {
+	background-color: #fcad2d;
+	border: 1px solid #fcad2d;
+	border-color: #fcad2d;
+} */
+
+.add-button {
+	width: 96%;
+	background-color: #fcad2d;
+	color: white;
+	border: none;
+	height: 30px;
+}
+
+.add-button-text {
+	font-size: 10px;
+}

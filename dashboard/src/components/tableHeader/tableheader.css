@@ -1,0 +1,62 @@
+.header-item {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.header-container {
+	padding-top: 12px;
+	padding-bottom: 10px;
+}
+.header-right-menu {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding-left: 20px;
+	padding-right: 20px;
+	position: absolute;
+	right: 0;
+}
+.header-left-menu {
+	display: flex;
+	padding-left: 40px;
+}
+
+.input-box-style > input {
+	background: url("../../Assets/ico_search.svg") center right no-repeat;
+	height: 29px;
+	width: 96%;
+	padding-left: 10px;
+	background-position: 94% 50%;
+	background-size: 14px 14px;
+	border: 1px solid #ededed;
+}
+.input-box-style {
+	padding-right: 20px;
+	width: 315px;
+}
+.search-button-style {
+	background-color: #fcad2d;
+	border: none;
+	color: white;
+	align-items: center;
+	padding: 0px 16px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+	padding-left: 10px;
+}
+
+.add-button-items {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 2px 2px 2px 2px;
+}
+img {
+	padding-bottom: 6px;
+}
+
+.ant-btn {
+	display: none;
+}

@@ -1,0 +1,11 @@
+.general-style {
+	background-color: #282828;
+	color: cornsilk;
+	height: 60px;
+	display: flex;
+}
+
+.logo-style {
+	padding-left: 23px;
+	padding-top: 15px;
+}
